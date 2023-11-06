@@ -16,7 +16,7 @@ p {
     text-align: center;
 }
 em strong {
-    text-align: center;
+  color:black
 }
 #missao {
     font-size: 20px;
@@ -31,7 +31,22 @@ em strong {
 em strong {
     color:aqua
 }
-h2}
-    text-align: center
+.itens{
+font-style: italic
 }
-ul}
+.beneficios{
+bakground: #ffffff
+padding: 20px;
+}
+h2{
+text-align:center;
+}
+ul{
+    display:inline-block;
+vertical-align:  top;
+width: 20%;
+margin: rigth 15%;
+}
+..imagembeneficios{
+  width: 50%   
+}
